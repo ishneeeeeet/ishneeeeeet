@@ -8,7 +8,7 @@
 
 ---
 
-I am a Software Developer Evangelist at , co-author of Learn to Cloud, co-host of Random Cloud Chats podcast, Microsoft MVP, AWS Community Builder, and YouTuber. Passionate about building products with the help of technology and sharing my learnings in Development, DevOps and now Cloud Relations. 
+I am a freelance Software Developer. Passionate about building products with the help of technology and sharing my learnings in Development, DevOps and now Cloud Relations. 
 
 ---
 
