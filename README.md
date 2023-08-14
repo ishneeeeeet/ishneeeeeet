@@ -48,10 +48,10 @@ YOUTUBE-VIDEOS-LIST:START
 
 ### My Github Stats 📊
 
-[![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/0-profile-details.svg)](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishneeeeeet&theme=auras)
+<!-- [![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishneeeeeet&theme=aura)]
 [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/rishabkumar7/rishabkumar7/master/profile-summary-card-output/github_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=rishabkumar7&theme=ads-juicy-fresh)](https://git.io/streak-stats) -->
 <!--
 For future use
 <a href="https://www.instagram.com/hemant.gz/">
@@ -61,16 +61,16 @@ For future use
   <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
 </a>
 -->
-
+[](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ishneeeeeet&theme=aura)
 ---
 
-### ✨ My Recent Activity
+<!-- ### ✨ My Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#156](https://github.com/learntocloud/learn-to-cloud/issues/156#issuecomment-1677391254) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
+<!-- 1. 🗣 Commented on [#156](https://github.com/learntocloud/learn-to-cloud/issues/156#issuecomment-1677391254) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 2. 🗣 Commented on [#86](https://github.com/learntocloud/learn-to-cloud/issues/86#issuecomment-1666078572) in [learntocloud/learn-to-cloud](https://github.com/learntocloud/learn-to-cloud)
 3. 🎉 Merged PR [#14](https://github.com/rishabkumar7/the-devops-guide/pull/14) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
 4. 💪 Opened PR [#14](https://github.com/rishabkumar7/the-devops-guide/pull/14) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
-5. 🎉 Merged PR [#13](https://github.com/rishabkumar7/the-devops-guide/pull/13) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide)
+5. 🎉 Merged PR [#13](https://github.com/rishabkumar7/the-devops-guide/pull/13) in [rishabkumar7/the-devops-guide](https://github.com/rishabkumar7/the-devops-guide) --> -->
 <!--END_SECTION:activity-->
 
 <br/>
