@@ -19,7 +19,6 @@ I am a freelance Software Developer. Passionate about building products with the
 
 ---
 
-### 📺 Latest YouTube Videos
 <!-- 
 YOUTUBE-VIDEOS-LIST:START
 - [I try building an API in Python | Project Idea](https://www.youtube.com/watch?v=LVuxmQfqivA)
